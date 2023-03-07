@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/E-Study/Github/MLFlow-loan-app/mlruns/322603285694720147/75790a8418df40658951f76630982369/artifacts
+end_time: 1678194895286
+entry_point_name: ''
+experiment_id: '322603285694720147'
+lifecycle_stage: active
+run_id: 75790a8418df40658951f76630982369
+run_name: righteous-mare-486
+run_uuid: 75790a8418df40658951f76630982369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678194895036
+status: 4
+tags: []
+user_id: swapnilmac

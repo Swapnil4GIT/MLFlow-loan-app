@@ -1,0 +1,6 @@
+artifact_location: file:///Volumes/E-Study/Github/MLFlow-loan-app/mlruns/322603285694720147
+creation_time: 1678194416980
+experiment_id: '322603285694720147'
+last_update_time: 1678194416980
+lifecycle_stage: active
+name: loan_status
