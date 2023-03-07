@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/E-Study/Github/MLFlow-loan-app/mlruns/322603285694720147/98981f9fcf0647e8b70b5fbbbb3c9d33/artifacts
+end_time: 1678197159720
+entry_point_name: ''
+experiment_id: '322603285694720147'
+lifecycle_stage: active
+run_id: 98981f9fcf0647e8b70b5fbbbb3c9d33
+run_name: Hyperparameter Tuning_3
+run_uuid: 98981f9fcf0647e8b70b5fbbbb3c9d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678197154296
+status: 3
+tags: []
+user_id: swapnilmac
