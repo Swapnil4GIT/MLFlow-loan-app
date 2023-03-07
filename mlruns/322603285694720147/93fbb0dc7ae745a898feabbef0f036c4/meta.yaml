@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/E-Study/Github/MLFlow-loan-app/mlruns/322603285694720147/93fbb0dc7ae745a898feabbef0f036c4/artifacts
+end_time: 1678198168078
+entry_point_name: ''
+experiment_id: '322603285694720147'
+lifecycle_stage: active
+run_id: 93fbb0dc7ae745a898feabbef0f036c4
+run_name: knn
+run_uuid: 93fbb0dc7ae745a898feabbef0f036c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678198157751
+status: 3
+tags: []
+user_id: swapnilmac
